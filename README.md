@@ -10,7 +10,7 @@ sudo apt-get install m4
 sudo apt update
 sudo apt install zstd
 
-### 1.3 去去libgmp官网下载最新的gmp包，https://gmplib.org/
+### 1.3 去libgmp官网下载最新的gmp包，https://gmplib.org/
 例如我下载的是gmp-6.3.0.tar.zst，现在解压下载的包:
 zstd -d gmp-6.3.0.tar.zst -o gmp-6.3.0.tar
 tar -xvf gmp-6.3.0.tar
